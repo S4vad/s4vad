@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Savad</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.Hl50Bp6YPRnj7JK1C5W_dwHaFj?pid=ImgDet&rs=1">
+<img align="right" alt="Coding" width="400" src="https://www.ubuntupit.com/wp-content/uploads/2020/03/Data-Science-Company.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4vad&label=Profile%20views&color=0e75b6&style=flat" alt="s4vad" /> </p>
 

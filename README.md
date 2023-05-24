@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on data science<br>🤝 Architecting the future with artificial intelligence <br>🌱 I’m currently learning deep learning<br>💬 Ask me about Data science,Machine learning and Ai
+🔭 I’m currently working on data science<br>🤝 Architecting the future with artificial intelligence <br>💬 Ask me about Data science,Machine learning and Ai
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sava__d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-savad-68686723a) 

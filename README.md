@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data science<br>🤝 Architecting the future with artificial intelligence<br>💬 Ask me about Data science,Machine learning and Ai and web development using MERN
+🔭 I’m currently working on data science and web development<br>🤝 Architecting the future with artificial intelligence<br>💬 Ask me about Data science,Machine learning and Ai and web development using MERN
 
 
 ## 🌐 Socials:

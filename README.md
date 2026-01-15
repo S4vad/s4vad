@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Savad – Aspiring MERN Developer 🚀
+# 👋 Hey, I'm Savad – Full Stack Developer 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Web+%26+AI+Developer+%7C+MERN+Stack+%7C+ML+Enthusiast;Building+Future-ready+Apps+with+AI+%2B+Web" alt="Typing SVG" />
